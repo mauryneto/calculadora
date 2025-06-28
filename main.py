@@ -5,7 +5,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 def soma(x,y):
     resultado = x+y
-    print(f"\n{x} + {y} = {resultado}\n   ")
+    print(f"\n{x} + {y} = {resultado}\n")
 
 def subtracao(x,y):
     resultado = x-y
